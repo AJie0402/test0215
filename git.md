@@ -11,3 +11,5 @@ p.s 修改檔案 -> (git add)當前檔案儲存 -> (git status ) 查看當前狀
 git reset --hard 跳回之前版本 
 git reflog 開發者視角
 .gitignore 選取檔案不近git資料庫
+
+git clone 網址 取得github 檔案
